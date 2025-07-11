@@ -57,7 +57,8 @@ sudo python3 main.py 45.33.32.156 -sp 22 -ep 80 -st syn -o json
 ```
 ## 📁 Output
 If -o flag is used, the scan results will be saved in the following format:
-```scan_<target>_<timestamp>.json
+```bash
+scan_<target>_<timestamp>.json
 ```
 ## ⚠️ Disclaimer
 This tool is intended for educational and authorized security testing only. Scanning networks or systems without permission is illegal. It is suggested to clone this repository in your local machine and test this program on the devices on your local systems.
