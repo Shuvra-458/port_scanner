@@ -19,7 +19,7 @@ A fast, modular, and customizable port scanner built using Python. Supports **TC
  **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/Shuvra-458/port_scanner.git
 cd port_scanner
 ```
 
