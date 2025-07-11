@@ -14,6 +14,14 @@ A fast, modular, and customizable port scanner built using Python. Supports **TC
 - 🐍 Pure Python (Scapy for SYN scanning)
 
 ---
+## ✅ Installation & Running Locally
+
+ **Clone the repository:**
+
+```bash
+git clone https://github.com/YourUsername/YourRepoName.git
+cd port_scanner
+```
 
 ## 🛠️ Requirements
 
